@@ -1,4 +1,4 @@
-# verifiablelab main concepts
+# main concepts
 
 Don’t trust - verify!  
 
